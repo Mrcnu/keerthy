@@ -176,7 +176,7 @@ Nᴀᴍᴇ - {}"""
 
 ‣ ‣ᴜᴘɪ ɪᴅ : <code>updatesoon@ybl</code>
 
-‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href=https://telegram.me/LDecaprioo>ADITYA</a>
+‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href=https://telegram.me/@CnuMoviesBot>MRCNU</a>
 
          » Qʀ ᴄᴏᴅᴇ ᴀʟꜱᴏ ᴀᴠᴀɪʟᴀʙᴇ ɪɴ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ «
 
