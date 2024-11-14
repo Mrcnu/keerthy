@@ -123,7 +123,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TeamHMT/Auto-search-tamil-bot&branch=main&name=Auto-search-tamil-bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Mrcnu/keerthy&branch=main&name=Auto-search-tamil-bot)
 </details>
 
 <details><summary>Deploy To Render</summary>
